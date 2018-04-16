@@ -3,7 +3,7 @@
 Réplica del sitio original de **lyft**.
 
 ## Estructura de la página.
-![Lyft estructure](assets/images/lyft-structure.png)
+![Lyft estructure](https://raw.githubusercontent.com/RosyG/lyft/master/assets/images/lyft-structure.png)
 
 ## En este proyecto se aplican los siguientes conceptos:
 - Grid.
